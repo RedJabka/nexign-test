@@ -3,5 +3,6 @@
 /workspace.xml
 /.idea
 .idea/
-/targets
-targets/
+/target
+target/
+target
